@@ -1,0 +1,11 @@
+{
+  "name": "cicd-demo-app",
+  "version": "1.0.0",
+  "description": "Small Node.js app used to demonstrate a CI/CD pipeline with GitHub Actions and Docker",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
